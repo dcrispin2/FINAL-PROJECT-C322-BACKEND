@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from dcrispin.c322final.repository -->
 	</parent>
 	<groupId>edu.iu.dcrispin</groupId>
-	<artifactId>C322Final</artifactId>
+	<artifactId>c322-final</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>C322Final</name>
+	<name>c322-final</name>
 	<description>C322 Final</description>
 	<properties>
 		<java.version>17</java.version>
